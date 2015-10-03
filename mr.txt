@@ -57,7 +57,3 @@ git merge [branch-name]
 get checkout [commit-id]
 
 		Switches to [commit-id]
-
-git revert --no-edit [commit.id]
-
-		Reverts changes made by [commit.id]

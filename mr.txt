@@ -50,5 +50,7 @@ git checkout [branch-name]
 
 		Switches to branch [branch-name]
 
+git merge [branch-name]
 
+		Merge changes on [branch-name] into current branch
 

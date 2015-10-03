@@ -61,3 +61,8 @@ get checkout [commit-id]
 git revert --no-edit [commit.id]
 
 		Reverts changes made by [commit.id]
+
+
+git reset --hard
+
+		Resets the working directory
